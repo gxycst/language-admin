@@ -1,7 +1,7 @@
 <template>
   <div class="wrap">
     <h1 class="main-tit">授权码管理系统</h1>
-    <el-form :inline="true">
+    <el-form  size="small" :inline="true">
       <el-form-item label="code">
         <el-input v-model="searchForm.code"/>
       </el-form-item>
@@ -22,18 +22,20 @@
     </el-form>
     <el-table :data="tableData" style="width: 100%">
       <el-table-column prop="code" label="激活码"/>
-      <el-table-column prop="startDate" label="开始时间"/>
-      <el-table-column prop="endDate" label="结束时间"/>
-      <el-table-column prop="phone" label="手机号"/>
-      <el-table-column prop="active" label="是否激活">
+      <el-table-column prop="startDate" label="开始时间" width="120"/>
+      <el-table-column prop="endDate" label="结束时间" width="120"/>
+      <el-table-column prop="phone" label="手机号" width="120"/>
+      <el-table-column prop="active" label="是否激活" width="100">
         <template slot-scope="scope">
           {{ scope.row.active ? '激活' : '失效' }}
         </template>
       </el-table-column>
-      <el-table-column label="操作">
+      <el-table-column label="操作"  fixed="right" width="300">
         <template slot-scope="scope">
-          <el-button type="primary" size="small" @click="edit(scope.row)">编辑</el-button>
-          <el-button type="danger" size="small" @click="del(scope.row)">删除</el-button>
+          <div style="display: flex">
+            <el-button type="primary" size="mini" @click="edit(scope.row)">编辑</el-button>
+            <el-button type="danger" size="mini" @click="del(scope.row)">删除</el-button>
+          </div>
         </template>
       </el-table-column>
     </el-table>
@@ -48,7 +50,7 @@
       </el-pagination>
     </div>
 
-    <el-dialog title="新增" :visible.sync="dialogVisible" width="30%">
+    <el-dialog :title="title" :visible.sync="dialogVisible" width="600px">
       <el-form ref="form" :model="form" :rules="rules" label-width="100px">
         <el-form-item label="code" prop="code">
           <el-input v-model="form.code"/>
