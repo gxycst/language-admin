@@ -1,0 +1,1609 @@
+{
+  "segments": [
+    {
+      "end": 4.656,
+      "start": 0.031,
+      "text": " Your time is limited, so don't waste it living someone else's life.",
+      "words": [
+        {
+          "end": 0.672,
+          "score": 0.761,
+          "start": 0.031,
+          "word": "Your"
+        },
+        {
+          "end": 1.052,
+          "score": 0.872,
+          "start": 0.752,
+          "word": "time"
+        },
+        {
+          "end": 1.192,
+          "score": 0.76,
+          "start": 1.112,
+          "word": "is"
+        },
+        {
+          "end": 1.693,
+          "score": 0.919,
+          "start": 1.232,
+          "word": "limited,"
+        },
+        {
+          "end": 2.534,
+          "score": 0.764,
+          "start": 2.393,
+          "word": "so"
+        },
+        {
+          "end": 2.794,
+          "score": 0.756,
+          "start": 2.614,
+          "word": "don't"
+        },
+        {
+          "end": 3.114,
+          "score": 0.661,
+          "start": 2.874,
+          "word": "waste"
+        },
+        {
+          "end": 3.234,
+          "score": 0.884,
+          "start": 3.174,
+          "word": "it"
+        },
+        {
+          "end": 3.555,
+          "score": 0.849,
+          "start": 3.294,
+          "word": "living"
+        },
+        {
+          "end": 3.915,
+          "score": 0.895,
+          "start": 3.635,
+          "word": "someone"
+        },
+        {
+          "end": 4.255,
+          "score": 0.836,
+          "start": 3.955,
+          "word": "else's"
+        },
+        {
+          "end": 4.656,
+          "score": 0.949,
+          "start": 4.356,
+          "word": "life."
+        }
+      ]
+    },
+    {
+      "end": 12.744,
+      "start": 6.638,
+      "text": "If you got out of bed every morning and set your watch by what other people expect or demand, it'll drive you crazy.",
+      "words": [
+        {
+          "end": 6.698,
+          "score": 0.974,
+          "start": 6.638,
+          "word": "If"
+        },
+        {
+          "end": 6.858,
+          "score": 0.866,
+          "start": 6.718,
+          "word": "you"
+        },
+        {
+          "end": 6.998,
+          "score": 0.852,
+          "start": 6.898,
+          "word": "got"
+        },
+        {
+          "end": 7.138,
+          "score": 0.832,
+          "start": 7.058,
+          "word": "out"
+        },
+        {
+          "end": 7.219,
+          "score": 0.706,
+          "start": 7.179,
+          "word": "of"
+        },
+        {
+          "end": 7.439,
+          "score": 0.993,
+          "start": 7.279,
+          "word": "bed"
+        },
+        {
+          "end": 7.659,
+          "score": 0.928,
+          "start": 7.499,
+          "word": "every"
+        },
+        {
+          "end": 7.999,
+          "score": 0.874,
+          "start": 7.699,
+          "word": "morning"
+        },
+        {
+          "end": 8.14,
+          "score": 0.953,
+          "start": 8.059,
+          "word": "and"
+        },
+        {
+          "end": 8.46,
+          "score": 0.844,
+          "start": 8.24,
+          "word": "set"
+        },
+        {
+          "end": 8.64,
+          "score": 0.717,
+          "start": 8.48,
+          "word": "your"
+        },
+        {
+          "end": 9,
+          "score": 0.87,
+          "start": 8.7,
+          "word": "watch"
+        },
+        {
+          "end": 9.161,
+          "score": 0.954,
+          "start": 9.04,
+          "word": "by"
+        },
+        {
+          "end": 9.361,
+          "score": 0.9,
+          "start": 9.221,
+          "word": "what"
+        },
+        {
+          "end": 9.701,
+          "score": 0.861,
+          "start": 9.521,
+          "word": "other"
+        },
+        {
+          "end": 10.042,
+          "score": 0.761,
+          "start": 9.761,
+          "word": "people"
+        },
+        {
+          "end": 10.422,
+          "score": 0.772,
+          "start": 10.082,
+          "word": "expect"
+        },
+        {
+          "end": 10.582,
+          "score": 0.821,
+          "start": 10.502,
+          "word": "or"
+        },
+        {
+          "end": 11.043,
+          "score": 0.858,
+          "start": 10.622,
+          "word": "demand,"
+        },
+        {
+          "end": 11.763,
+          "score": 0.267,
+          "start": 11.583,
+          "word": "it'll"
+        },
+        {
+          "end": 12.084,
+          "score": 0.713,
+          "start": 11.783,
+          "word": "drive"
+        },
+        {
+          "end": 12.204,
+          "score": 0.961,
+          "start": 12.124,
+          "word": "you"
+        },
+        {
+          "end": 12.744,
+          "score": 0.97,
+          "start": 12.244,
+          "word": "crazy."
+        }
+      ]
+    },
+    {
+      "end": 15.707,
+      "start": 12.965,
+      "text": "Don't waste your time living someone else's life.",
+      "words": [
+        {
+          "end": 13.145,
+          "score": 0.907,
+          "start": 12.965,
+          "word": "Don't"
+        },
+        {
+          "end": 13.465,
+          "score": 0.6,
+          "start": 13.225,
+          "word": "waste"
+        },
+        {
+          "end": 13.645,
+          "score": 0.759,
+          "start": 13.505,
+          "word": "your"
+        },
+        {
+          "end": 14.086,
+          "score": 0.731,
+          "start": 13.725,
+          "word": "time"
+        },
+        {
+          "end": 14.406,
+          "score": 0.823,
+          "start": 14.166,
+          "word": "living"
+        },
+        {
+          "end": 14.787,
+          "score": 0.812,
+          "start": 14.486,
+          "word": "someone"
+        },
+        {
+          "end": 15.207,
+          "score": 0.84,
+          "start": 14.867,
+          "word": "else's"
+        },
+        {
+          "end": 15.707,
+          "score": 0.957,
+          "start": 15.347,
+          "word": "life."
+        }
+      ]
+    },
+    {
+      "end": 25.718,
+      "start": 16.408,
+      "text": "Don't try to emulate the people who came before you to the exclusion of everything else, contorting into a shape that doesn't fit.",
+      "words": [
+        {
+          "end": 16.628,
+          "score": 0.539,
+          "start": 16.408,
+          "word": "Don't"
+        },
+        {
+          "end": 16.909,
+          "score": 0.617,
+          "start": 16.709,
+          "word": "try"
+        },
+        {
+          "end": 17.029,
+          "score": 0.648,
+          "start": 16.949,
+          "word": "to"
+        },
+        {
+          "end": 17.69,
+          "score": 0.871,
+          "start": 17.249,
+          "word": "emulate"
+        },
+        {
+          "end": 17.85,
+          "score": 0.734,
+          "start": 17.73,
+          "word": "the"
+        },
+        {
+          "end": 18.35,
+          "score": 0.775,
+          "start": 17.97,
+          "word": "people"
+        },
+        {
+          "end": 18.55,
+          "score": 0.95,
+          "start": 18.43,
+          "word": "who"
+        },
+        {
+          "end": 18.911,
+          "score": 0.714,
+          "start": 18.651,
+          "word": "came"
+        },
+        {
+          "end": 19.451,
+          "score": 0.836,
+          "start": 19.011,
+          "word": "before"
+        },
+        {
+          "end": 19.712,
+          "score": 0.954,
+          "start": 19.532,
+          "word": "you"
+        },
+        {
+          "end": 19.932,
+          "score": 0.714,
+          "start": 19.812,
+          "word": "to"
+        },
+        {
+          "end": 20.032,
+          "score": 0.69,
+          "start": 19.972,
+          "word": "the"
+        },
+        {
+          "end": 20.873,
+          "score": 0.805,
+          "start": 20.112,
+          "word": "exclusion"
+        },
+        {
+          "end": 21.153,
+          "score": 0.902,
+          "start": 21.073,
+          "word": "of"
+        },
+        {
+          "end": 21.914,
+          "score": 0.807,
+          "start": 21.193,
+          "word": "everything"
+        },
+        {
+          "end": 22.234,
+          "score": 0.831,
+          "start": 22.054,
+          "word": "else,"
+        },
+        {
+          "end": 23.356,
+          "score": 0.87,
+          "start": 22.615,
+          "word": "contorting"
+        },
+        {
+          "end": 23.696,
+          "score": 0.954,
+          "start": 23.416,
+          "word": "into"
+        },
+        {
+          "end": 23.796,
+          "score": 0.996,
+          "start": 23.776,
+          "word": "a"
+        },
+        {
+          "end": 24.337,
+          "score": 0.812,
+          "start": 23.996,
+          "word": "shape"
+        },
+        {
+          "end": 24.637,
+          "score": 0.954,
+          "start": 24.497,
+          "word": "that"
+        },
+        {
+          "end": 24.997,
+          "score": 0.683,
+          "start": 24.697,
+          "word": "doesn't"
+        },
+        {
+          "end": 25.718,
+          "score": 0.844,
+          "start": 25.097,
+          "word": "fit."
+        }
+      ]
+    },
+    {
+      "end": 32.539,
+      "start": 26.947,
+      "text": " It takes too much mental effort, effort that should be dedicated to creating and building.",
+      "words": [
+        {
+          "end": 27.087,
+          "score": 0.895,
+          "start": 26.947,
+          "word": "It"
+        },
+        {
+          "end": 27.348,
+          "score": 0.813,
+          "start": 27.127,
+          "word": "takes"
+        },
+        {
+          "end": 27.608,
+          "score": 0.7,
+          "start": 27.368,
+          "word": "too"
+        },
+        {
+          "end": 27.849,
+          "score": 0.852,
+          "start": 27.668,
+          "word": "much"
+        },
+        {
+          "end": 28.33,
+          "score": 0.843,
+          "start": 27.949,
+          "word": "mental"
+        },
+        {
+          "end": 28.791,
+          "score": 0.932,
+          "start": 28.43,
+          "word": "effort,"
+        },
+        {
+          "end": 29.733,
+          "score": 0.84,
+          "start": 29.472,
+          "word": "effort"
+        },
+        {
+          "end": 29.893,
+          "score": 0.985,
+          "start": 29.773,
+          "word": "that"
+        },
+        {
+          "end": 30.154,
+          "score": 0.862,
+          "start": 29.953,
+          "word": "should"
+        },
+        {
+          "end": 30.274,
+          "score": 0.741,
+          "start": 30.194,
+          "word": "be"
+        },
+        {
+          "end": 30.955,
+          "score": 0.866,
+          "start": 30.354,
+          "word": "dedicated"
+        },
+        {
+          "end": 31.096,
+          "score": 0.911,
+          "start": 31.015,
+          "word": "to"
+        },
+        {
+          "end": 31.777,
+          "score": 0.805,
+          "start": 31.176,
+          "word": "creating"
+        },
+        {
+          "end": 31.937,
+          "score": 0.775,
+          "start": 31.857,
+          "word": "and"
+        },
+        {
+          "end": 32.539,
+          "score": 0.818,
+          "start": 32.017,
+          "word": "building."
+        }
+      ]
+    },
+    {
+      "end": 37.509,
+      "start": 34.022,
+      "text": "You always precious time trying to rewire your every thought.",
+      "words": [
+        {
+          "end": 34.122,
+          "score": 0.548,
+          "start": 34.022,
+          "word": "You"
+        },
+        {
+          "end": 34.422,
+          "score": 0.708,
+          "start": 34.142,
+          "word": "always"
+        },
+        {
+          "end": 34.903,
+          "score": 0.952,
+          "start": 34.503,
+          "word": "precious"
+        },
+        {
+          "end": 35.324,
+          "score": 0.92,
+          "start": 34.984,
+          "word": "time"
+        },
+        {
+          "end": 35.725,
+          "score": 0.802,
+          "start": 35.364,
+          "word": "trying"
+        },
+        {
+          "end": 35.825,
+          "score": 0.75,
+          "start": 35.765,
+          "word": "to"
+        },
+        {
+          "end": 36.406,
+          "score": 0.843,
+          "start": 35.845,
+          "word": "rewire"
+        },
+        {
+          "end": 36.627,
+          "score": 0.981,
+          "start": 36.467,
+          "word": "your"
+        },
+        {
+          "end": 36.988,
+          "score": 0.829,
+          "start": 36.787,
+          "word": "every"
+        },
+        {
+          "end": 37.509,
+          "score": 0.798,
+          "start": 37.088,
+          "word": "thought."
+        }
+      ]
+    },
+    {
+      "end": 40.956,
+      "start": 38.05,
+      "text": "When your time comes, you'll never be ready.",
+      "words": [
+        {
+          "end": 38.21,
+          "score": 0.889,
+          "start": 38.05,
+          "word": "When"
+        },
+        {
+          "end": 38.711,
+          "score": 0.666,
+          "start": 38.27,
+          "word": "your"
+        },
+        {
+          "end": 39.112,
+          "score": 0.845,
+          "start": 38.791,
+          "word": "time"
+        },
+        {
+          "end": 39.673,
+          "score": 0.896,
+          "start": 39.232,
+          "word": "comes,"
+        },
+        {
+          "end": 40.014,
+          "score": 0.895,
+          "start": 39.793,
+          "word": "you'll"
+        },
+        {
+          "end": 40.335,
+          "score": 0.721,
+          "start": 40.094,
+          "word": "never"
+        },
+        {
+          "end": 40.515,
+          "score": 0.99,
+          "start": 40.415,
+          "word": "be"
+        },
+        {
+          "end": 40.956,
+          "score": 0.71,
+          "start": 40.595,
+          "word": "ready."
+        }
+      ]
+    },
+    {
+      "end": 43.942,
+      "start": 41.978,
+      "text": "Find the hope and the unexpected.",
+      "words": [
+        {
+          "end": 42.198,
+          "score": 0.859,
+          "start": 41.978,
+          "word": "Find"
+        },
+        {
+          "end": 42.339,
+          "score": 0.649,
+          "start": 42.238,
+          "word": "the"
+        },
+        {
+          "end": 42.679,
+          "score": 0.909,
+          "start": 42.399,
+          "word": "hope"
+        },
+        {
+          "end": 43.08,
+          "score": 0.675,
+          "start": 43.02,
+          "word": "and"
+        },
+        {
+          "end": 43.18,
+          "score": 0.742,
+          "start": 43.1,
+          "word": "the"
+        },
+        {
+          "end": 43.942,
+          "score": 0.941,
+          "start": 43.241,
+          "word": "unexpected."
+        }
+      ]
+    },
+    {
+      "end": 46.587,
+      "start": 44.563,
+      "text": "Find the courage and the challenge.",
+      "words": [
+        {
+          "end": 44.824,
+          "score": 0.715,
+          "start": 44.563,
+          "word": "Find"
+        },
+        {
+          "end": 44.944,
+          "score": 0.491,
+          "start": 44.864,
+          "word": "the"
+        },
+        {
+          "end": 45.625,
+          "score": 0.879,
+          "start": 45.064,
+          "word": "courage"
+        },
+        {
+          "end": 45.786,
+          "score": 0.672,
+          "start": 45.726,
+          "word": "and"
+        },
+        {
+          "end": 45.866,
+          "score": 0.739,
+          "start": 45.806,
+          "word": "the"
+        },
+        {
+          "end": 46.587,
+          "score": 0.872,
+          "start": 45.946,
+          "word": "challenge."
+        }
+      ]
+    },
+    {
+      "end": 49.614,
+      "start": 47.068,
+      "text": "Find your vision on the solitary road.",
+      "words": [
+        {
+          "end": 47.309,
+          "score": 0.917,
+          "start": 47.068,
+          "word": "Find"
+        },
+        {
+          "end": 47.469,
+          "score": 0.601,
+          "start": 47.329,
+          "word": "your"
+        },
+        {
+          "end": 48.07,
+          "score": 0.914,
+          "start": 47.589,
+          "word": "vision"
+        },
+        {
+          "end": 48.311,
+          "score": 0.998,
+          "start": 48.251,
+          "word": "on"
+        },
+        {
+          "end": 48.431,
+          "score": 0.916,
+          "start": 48.351,
+          "word": "the"
+        },
+        {
+          "end": 49.093,
+          "score": 0.776,
+          "start": 48.511,
+          "word": "solitary"
+        },
+        {
+          "end": 49.614,
+          "score": 0.787,
+          "start": 49.193,
+          "word": "road."
+        }
+      ]
+    },
+    {
+      "end": 51.999,
+      "start": 50.415,
+      "text": "Don't get distracted.",
+      "words": [
+        {
+          "end": 50.656,
+          "score": 0.697,
+          "start": 50.415,
+          "word": "Don't"
+        },
+        {
+          "end": 51.037,
+          "score": 0.997,
+          "start": 50.856,
+          "word": "get"
+        },
+        {
+          "end": 51.999,
+          "score": 0.928,
+          "start": 51.157,
+          "word": "distracted."
+        }
+      ]
+    },
+    {
+      "end": 53.943,
+      "start": 52.059,
+      "text": "Be different.",
+      "words": [
+        {
+          "end": 53.041,
+          "score": 0.938,
+          "start": 52.059,
+          "word": "Be"
+        },
+        {
+          "end": 53.943,
+          "score": 0.897,
+          "start": 53.261,
+          "word": "different."
+        }
+      ]
+    },
+    {
+      "end": 56.127,
+      "start": 54.484,
+      "text": "Leave something worthy.",
+      "words": [
+        {
+          "end": 54.764,
+          "score": 0.901,
+          "start": 54.484,
+          "word": "Leave"
+        },
+        {
+          "end": 55.305,
+          "score": 0.859,
+          "start": 54.864,
+          "word": "something"
+        },
+        {
+          "end": 56.127,
+          "score": 0.857,
+          "start": 55.406,
+          "word": "worthy."
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "end": 0.672,
+      "score": 0.761,
+      "start": 0.031,
+      "word": "Your"
+    },
+    {
+      "end": 1.052,
+      "score": 0.872,
+      "start": 0.752,
+      "word": "time"
+    },
+    {
+      "end": 1.192,
+      "score": 0.76,
+      "start": 1.112,
+      "word": "is"
+    },
+    {
+      "end": 1.693,
+      "score": 0.919,
+      "start": 1.232,
+      "word": "limited,"
+    },
+    {
+      "end": 2.534,
+      "score": 0.764,
+      "start": 2.393,
+      "word": "so"
+    },
+    {
+      "end": 2.794,
+      "score": 0.756,
+      "start": 2.614,
+      "word": "don't"
+    },
+    {
+      "end": 3.114,
+      "score": 0.661,
+      "start": 2.874,
+      "word": "waste"
+    },
+    {
+      "end": 3.234,
+      "score": 0.884,
+      "start": 3.174,
+      "word": "it"
+    },
+    {
+      "end": 3.555,
+      "score": 0.849,
+      "start": 3.294,
+      "word": "living"
+    },
+    {
+      "end": 3.915,
+      "score": 0.895,
+      "start": 3.635,
+      "word": "someone"
+    },
+    {
+      "end": 4.255,
+      "score": 0.836,
+      "start": 3.955,
+      "word": "else's"
+    },
+    {
+      "end": 4.656,
+      "score": 0.949,
+      "start": 4.356,
+      "word": "life."
+    },
+    {
+      "end": 6.698,
+      "score": 0.974,
+      "start": 6.638,
+      "word": "If"
+    },
+    {
+      "end": 6.858,
+      "score": 0.866,
+      "start": 6.718,
+      "word": "you"
+    },
+    {
+      "end": 6.998,
+      "score": 0.852,
+      "start": 6.898,
+      "word": "got"
+    },
+    {
+      "end": 7.138,
+      "score": 0.832,
+      "start": 7.058,
+      "word": "out"
+    },
+    {
+      "end": 7.219,
+      "score": 0.706,
+      "start": 7.179,
+      "word": "of"
+    },
+    {
+      "end": 7.439,
+      "score": 0.993,
+      "start": 7.279,
+      "word": "bed"
+    },
+    {
+      "end": 7.659,
+      "score": 0.928,
+      "start": 7.499,
+      "word": "every"
+    },
+    {
+      "end": 7.999,
+      "score": 0.874,
+      "start": 7.699,
+      "word": "morning"
+    },
+    {
+      "end": 8.14,
+      "score": 0.953,
+      "start": 8.059,
+      "word": "and"
+    },
+    {
+      "end": 8.46,
+      "score": 0.844,
+      "start": 8.24,
+      "word": "set"
+    },
+    {
+      "end": 8.64,
+      "score": 0.717,
+      "start": 8.48,
+      "word": "your"
+    },
+    {
+      "end": 9,
+      "score": 0.87,
+      "start": 8.7,
+      "word": "watch"
+    },
+    {
+      "end": 9.161,
+      "score": 0.954,
+      "start": 9.04,
+      "word": "by"
+    },
+    {
+      "end": 9.361,
+      "score": 0.9,
+      "start": 9.221,
+      "word": "what"
+    },
+    {
+      "end": 9.701,
+      "score": 0.861,
+      "start": 9.521,
+      "word": "other"
+    },
+    {
+      "end": 10.042,
+      "score": 0.761,
+      "start": 9.761,
+      "word": "people"
+    },
+    {
+      "end": 10.422,
+      "score": 0.772,
+      "start": 10.082,
+      "word": "expect"
+    },
+    {
+      "end": 10.582,
+      "score": 0.821,
+      "start": 10.502,
+      "word": "or"
+    },
+    {
+      "end": 11.043,
+      "score": 0.858,
+      "start": 10.622,
+      "word": "demand,"
+    },
+    {
+      "end": 11.763,
+      "score": 0.267,
+      "start": 11.583,
+      "word": "it'll"
+    },
+    {
+      "end": 12.084,
+      "score": 0.713,
+      "start": 11.783,
+      "word": "drive"
+    },
+    {
+      "end": 12.204,
+      "score": 0.961,
+      "start": 12.124,
+      "word": "you"
+    },
+    {
+      "end": 12.744,
+      "score": 0.97,
+      "start": 12.244,
+      "word": "crazy."
+    },
+    {
+      "end": 13.145,
+      "score": 0.907,
+      "start": 12.965,
+      "word": "Don't"
+    },
+    {
+      "end": 13.465,
+      "score": 0.6,
+      "start": 13.225,
+      "word": "waste"
+    },
+    {
+      "end": 13.645,
+      "score": 0.759,
+      "start": 13.505,
+      "word": "your"
+    },
+    {
+      "end": 14.086,
+      "score": 0.731,
+      "start": 13.725,
+      "word": "time"
+    },
+    {
+      "end": 14.406,
+      "score": 0.823,
+      "start": 14.166,
+      "word": "living"
+    },
+    {
+      "end": 14.787,
+      "score": 0.812,
+      "start": 14.486,
+      "word": "someone"
+    },
+    {
+      "end": 15.207,
+      "score": 0.84,
+      "start": 14.867,
+      "word": "else's"
+    },
+    {
+      "end": 15.707,
+      "score": 0.957,
+      "start": 15.347,
+      "word": "life."
+    },
+    {
+      "end": 16.628,
+      "score": 0.539,
+      "start": 16.408,
+      "word": "Don't"
+    },
+    {
+      "end": 16.909,
+      "score": 0.617,
+      "start": 16.709,
+      "word": "try"
+    },
+    {
+      "end": 17.029,
+      "score": 0.648,
+      "start": 16.949,
+      "word": "to"
+    },
+    {
+      "end": 17.69,
+      "score": 0.871,
+      "start": 17.249,
+      "word": "emulate"
+    },
+    {
+      "end": 17.85,
+      "score": 0.734,
+      "start": 17.73,
+      "word": "the"
+    },
+    {
+      "end": 18.35,
+      "score": 0.775,
+      "start": 17.97,
+      "word": "people"
+    },
+    {
+      "end": 18.55,
+      "score": 0.95,
+      "start": 18.43,
+      "word": "who"
+    },
+    {
+      "end": 18.911,
+      "score": 0.714,
+      "start": 18.651,
+      "word": "came"
+    },
+    {
+      "end": 19.451,
+      "score": 0.836,
+      "start": 19.011,
+      "word": "before"
+    },
+    {
+      "end": 19.712,
+      "score": 0.954,
+      "start": 19.532,
+      "word": "you"
+    },
+    {
+      "end": 19.932,
+      "score": 0.714,
+      "start": 19.812,
+      "word": "to"
+    },
+    {
+      "end": 20.032,
+      "score": 0.69,
+      "start": 19.972,
+      "word": "the"
+    },
+    {
+      "end": 20.873,
+      "score": 0.805,
+      "start": 20.112,
+      "word": "exclusion"
+    },
+    {
+      "end": 21.153,
+      "score": 0.902,
+      "start": 21.073,
+      "word": "of"
+    },
+    {
+      "end": 21.914,
+      "score": 0.807,
+      "start": 21.193,
+      "word": "everything"
+    },
+    {
+      "end": 22.234,
+      "score": 0.831,
+      "start": 22.054,
+      "word": "else,"
+    },
+    {
+      "end": 23.356,
+      "score": 0.87,
+      "start": 22.615,
+      "word": "contorting"
+    },
+    {
+      "end": 23.696,
+      "score": 0.954,
+      "start": 23.416,
+      "word": "into"
+    },
+    {
+      "end": 23.796,
+      "score": 0.996,
+      "start": 23.776,
+      "word": "a"
+    },
+    {
+      "end": 24.337,
+      "score": 0.812,
+      "start": 23.996,
+      "word": "shape"
+    },
+    {
+      "end": 24.637,
+      "score": 0.954,
+      "start": 24.497,
+      "word": "that"
+    },
+    {
+      "end": 24.997,
+      "score": 0.683,
+      "start": 24.697,
+      "word": "doesn't"
+    },
+    {
+      "end": 25.718,
+      "score": 0.844,
+      "start": 25.097,
+      "word": "fit."
+    },
+    {
+      "end": 27.087,
+      "score": 0.895,
+      "start": 26.947,
+      "word": "It"
+    },
+    {
+      "end": 27.348,
+      "score": 0.813,
+      "start": 27.127,
+      "word": "takes"
+    },
+    {
+      "end": 27.608,
+      "score": 0.7,
+      "start": 27.368,
+      "word": "too"
+    },
+    {
+      "end": 27.849,
+      "score": 0.852,
+      "start": 27.668,
+      "word": "much"
+    },
+    {
+      "end": 28.33,
+      "score": 0.843,
+      "start": 27.949,
+      "word": "mental"
+    },
+    {
+      "end": 28.791,
+      "score": 0.932,
+      "start": 28.43,
+      "word": "effort,"
+    },
+    {
+      "end": 29.733,
+      "score": 0.84,
+      "start": 29.472,
+      "word": "effort"
+    },
+    {
+      "end": 29.893,
+      "score": 0.985,
+      "start": 29.773,
+      "word": "that"
+    },
+    {
+      "end": 30.154,
+      "score": 0.862,
+      "start": 29.953,
+      "word": "should"
+    },
+    {
+      "end": 30.274,
+      "score": 0.741,
+      "start": 30.194,
+      "word": "be"
+    },
+    {
+      "end": 30.955,
+      "score": 0.866,
+      "start": 30.354,
+      "word": "dedicated"
+    },
+    {
+      "end": 31.096,
+      "score": 0.911,
+      "start": 31.015,
+      "word": "to"
+    },
+    {
+      "end": 31.777,
+      "score": 0.805,
+      "start": 31.176,
+      "word": "creating"
+    },
+    {
+      "end": 31.937,
+      "score": 0.775,
+      "start": 31.857,
+      "word": "and"
+    },
+    {
+      "end": 32.539,
+      "score": 0.818,
+      "start": 32.017,
+      "word": "building."
+    },
+    {
+      "end": 34.122,
+      "score": 0.548,
+      "start": 34.022,
+      "word": "You"
+    },
+    {
+      "end": 34.422,
+      "score": 0.708,
+      "start": 34.142,
+      "word": "always"
+    },
+    {
+      "end": 34.903,
+      "score": 0.952,
+      "start": 34.503,
+      "word": "precious"
+    },
+    {
+      "end": 35.324,
+      "score": 0.92,
+      "start": 34.984,
+      "word": "time"
+    },
+    {
+      "end": 35.725,
+      "score": 0.802,
+      "start": 35.364,
+      "word": "trying"
+    },
+    {
+      "end": 35.825,
+      "score": 0.75,
+      "start": 35.765,
+      "word": "to"
+    },
+    {
+      "end": 36.406,
+      "score": 0.843,
+      "start": 35.845,
+      "word": "rewire"
+    },
+    {
+      "end": 36.627,
+      "score": 0.981,
+      "start": 36.467,
+      "word": "your"
+    },
+    {
+      "end": 36.988,
+      "score": 0.829,
+      "start": 36.787,
+      "word": "every"
+    },
+    {
+      "end": 37.509,
+      "score": 0.798,
+      "start": 37.088,
+      "word": "thought."
+    },
+    {
+      "end": 38.21,
+      "score": 0.889,
+      "start": 38.05,
+      "word": "When"
+    },
+    {
+      "end": 38.711,
+      "score": 0.666,
+      "start": 38.27,
+      "word": "your"
+    },
+    {
+      "end": 39.112,
+      "score": 0.845,
+      "start": 38.791,
+      "word": "time"
+    },
+    {
+      "end": 39.673,
+      "score": 0.896,
+      "start": 39.232,
+      "word": "comes,"
+    },
+    {
+      "end": 40.014,
+      "score": 0.895,
+      "start": 39.793,
+      "word": "you'll"
+    },
+    {
+      "end": 40.335,
+      "score": 0.721,
+      "start": 40.094,
+      "word": "never"
+    },
+    {
+      "end": 40.515,
+      "score": 0.99,
+      "start": 40.415,
+      "word": "be"
+    },
+    {
+      "end": 40.956,
+      "score": 0.71,
+      "start": 40.595,
+      "word": "ready."
+    },
+    {
+      "end": 42.198,
+      "score": 0.859,
+      "start": 41.978,
+      "word": "Find"
+    },
+    {
+      "end": 42.339,
+      "score": 0.649,
+      "start": 42.238,
+      "word": "the"
+    },
+    {
+      "end": 42.679,
+      "score": 0.909,
+      "start": 42.399,
+      "word": "hope"
+    },
+    {
+      "end": 43.08,
+      "score": 0.675,
+      "start": 43.02,
+      "word": "and"
+    },
+    {
+      "end": 43.18,
+      "score": 0.742,
+      "start": 43.1,
+      "word": "the"
+    },
+    {
+      "end": 43.942,
+      "score": 0.941,
+      "start": 43.241,
+      "word": "unexpected."
+    },
+    {
+      "end": 44.824,
+      "score": 0.715,
+      "start": 44.563,
+      "word": "Find"
+    },
+    {
+      "end": 44.944,
+      "score": 0.491,
+      "start": 44.864,
+      "word": "the"
+    },
+    {
+      "end": 45.625,
+      "score": 0.879,
+      "start": 45.064,
+      "word": "courage"
+    },
+    {
+      "end": 45.786,
+      "score": 0.672,
+      "start": 45.726,
+      "word": "and"
+    },
+    {
+      "end": 45.866,
+      "score": 0.739,
+      "start": 45.806,
+      "word": "the"
+    },
+    {
+      "end": 46.587,
+      "score": 0.872,
+      "start": 45.946,
+      "word": "challenge."
+    },
+    {
+      "end": 47.309,
+      "score": 0.917,
+      "start": 47.068,
+      "word": "Find"
+    },
+    {
+      "end": 47.469,
+      "score": 0.601,
+      "start": 47.329,
+      "word": "your"
+    },
+    {
+      "end": 48.07,
+      "score": 0.914,
+      "start": 47.589,
+      "word": "vision"
+    },
+    {
+      "end": 48.311,
+      "score": 0.998,
+      "start": 48.251,
+      "word": "on"
+    },
+    {
+      "end": 48.431,
+      "score": 0.916,
+      "start": 48.351,
+      "word": "the"
+    },
+    {
+      "end": 49.093,
+      "score": 0.776,
+      "start": 48.511,
+      "word": "solitary"
+    },
+    {
+      "end": 49.614,
+      "score": 0.787,
+      "start": 49.193,
+      "word": "road."
+    },
+    {
+      "end": 50.656,
+      "score": 0.697,
+      "start": 50.415,
+      "word": "Don't"
+    },
+    {
+      "end": 51.037,
+      "score": 0.997,
+      "start": 50.856,
+      "word": "get"
+    },
+    {
+      "end": 51.999,
+      "score": 0.928,
+      "start": 51.157,
+      "word": "distracted."
+    },
+    {
+      "end": 53.041,
+      "score": 0.938,
+      "start": 52.059,
+      "word": "Be"
+    },
+    {
+      "end": 53.943,
+      "score": 0.897,
+      "start": 53.261,
+      "word": "different."
+    },
+    {
+      "end": 54.764,
+      "score": 0.901,
+      "start": 54.484,
+      "word": "Leave"
+    },
+    {
+      "end": 55.305,
+      "score": 0.859,
+      "start": 54.864,
+      "word": "something"
+    },
+    {
+      "end": 56.127,
+      "score": 0.857,
+      "start": 55.406,
+      "word": "worthy."
+    }
+  ]
+}
